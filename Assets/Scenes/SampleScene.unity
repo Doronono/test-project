@@ -473,6 +473,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   weaponRenderer: {fileID: 0}
   weapon: {fileID: 0}
+  m_Player: {fileID: 698658685}
 --- !u!1 &1906080127
 GameObject:
   m_ObjectHideFlags: 0

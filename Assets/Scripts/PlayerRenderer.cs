@@ -6,7 +6,7 @@ using UnityEngine;
 public class PlayerRenderer : MonoBehaviour
 {
     protected SpriteRenderer spriteRenderer;
-
+/*
     private void Awake()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -25,5 +25,5 @@ public class PlayerRenderer : MonoBehaviour
         {
             spriteRenderer.flipX = false;
         }
-    }
+    }*/
 }
